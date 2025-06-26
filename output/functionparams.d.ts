@@ -1,1 +1,1 @@
-declare function totalPrice(item?: number, price?: number): void;
+declare function totalPrice(item: number, price: number): void;

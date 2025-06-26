@@ -1,4 +1,4 @@
-function totalPrice(item?:number, price?:number){
+function totalPrice(item:number, price:number){
     // var price =100;
     console.log(price*item)
 }
